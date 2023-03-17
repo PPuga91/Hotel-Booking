@@ -4,5 +4,5 @@ Model about Hotel bookings and in making predictions on weather the booking will
 
 
 ## What is inside this repository
-1. filename.ipynb
-2. hotelbooking.csv
+1. Hotel_Bookings_problem.ipynb
+2. hotel_booking.csv
